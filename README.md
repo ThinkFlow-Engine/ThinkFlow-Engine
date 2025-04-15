@@ -1,2 +1,2 @@
 # ThinkFlow-Engine
-A repository for developing ai-creation engine. 
+A repository for developing engine for analyzation models. 
