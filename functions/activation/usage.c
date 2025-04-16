@@ -3,6 +3,6 @@
 
 int main () {
     double x = 2.5;
-    printf("%f", sigmoid_activation(x));
+    printf("%f", sigmoid_activation(x)); // Use any of function provided
     return 0;
 }
