@@ -44,6 +44,7 @@ int main (int argc, char* argv[]) {
             w[i] = (w[i] > 0) ? w[i] : 0;
         }
         double new[3] = {1, 1, 0};
-        result = activation(RightProp(new));
+        double result = activation(RightProp(new));
+        printf ("%lf", result);
     }
 }
