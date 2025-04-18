@@ -11,3 +11,7 @@ struct pair_string_double inputs = {};
 void fill_inputs (double linear, double step, double sigmoid, double tahn) {
     struct pair_string_double inputs = {{'linear', linear}, {'step', step}, {'sigmoid', sigmoid}, {'tahn', tahn}};
 }
+
+int main () {
+    
+}
